@@ -2,7 +2,7 @@
 
 Este repositório contém o vídeo de demonstração do projeto **Simulando Blinexterno**.
 
-🎥 **Assista ao vídeo do projeto:**<br>
+🎥 **Assista ao vídeo do projeto (Parte 1 e 2):**<br>
 [👉 Clique aqui para ver no Google Drive](https://drive.google.com/drive/folders/1ab1dfvJ1G7qPpnBnwn3BDSo7B8RFWGdD?usp=sharing)
 
 **Veja o TinkerCad do projeto:**<br>
